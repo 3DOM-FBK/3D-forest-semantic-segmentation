@@ -1,6 +1,6 @@
 <div align="center">
 
-# **3D forest semantic segmentation using multispectral LiDAR and 3D deep learning**
+# 3D forest semantic segmentation using multispectral LiDAR and <br> 3D deep learning
 
 **Narges Takhtkeshha<sup>1,2&#42;</sup>, Lauris Bocaux<sup>1</sup>, Lassi Ruoppa<sup>3</sup>, Fabio Remondino<sup>1</sup>, Gottfried Mandlburger<sup>2</sup>, Antero Kukko<sup>3</sup>, Juha Hyyppä<sup>3</sup>**
 
