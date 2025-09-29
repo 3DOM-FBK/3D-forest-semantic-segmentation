@@ -8,3 +8,5 @@
 <sup>2</sup> Department of Geodesy and Geoinformation, TU Wien, Vienna, Austria  
 
 <sup>3</sup> Department of Photogrammetry and Remote Sensing, Finnish Geospatial Research Institute, National Land Survey of Finland, Espoo, Finland  
+
+![Main Image](path/to/your-image.png)
