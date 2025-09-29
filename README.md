@@ -9,5 +9,6 @@
 <sup>3</sup> Department of Photogrammetry and Remote Sensing, Finnish Geospatial Research Institute, National Land Survey of Finland, Espoo, Finland  
 
 ![Main Image](assets/methodology.png)
+![Demo GIF](assets/demo.gif)
 
 </div>
